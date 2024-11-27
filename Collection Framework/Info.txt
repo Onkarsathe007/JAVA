@@ -1,0 +1,12 @@
+we cant write all from the starch
+                                                           |-- ArrayList
+                                                           |-- LinkedList
+                             |----  List (interface)  -----|-- vector  ----Stack                               
+Iterable<------Collection<---|----  Queue (interface) 
+(interface)   (interface)    |----  Set (interface) 
+
+Methods :
+add()
+size()
+remove()
+iterate()

@@ -1,0 +1,17 @@
+// Instead of building Data Structures from a starch we use Collection Framework
+// Array : |  |  |  |  |  |  |  |  | 
+// Continuous form .
+// fixed size .
+
+// ArrayList  |  |->|  |->|  |->|  |->|  | 
+// We can store only Objects inside AL.
+// add
+// get 
+// modify
+// delete / remove
+// iterate
+
+public class ArrayList {
+
+    
+}

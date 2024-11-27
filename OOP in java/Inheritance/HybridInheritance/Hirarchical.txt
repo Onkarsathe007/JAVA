@@ -1,0 +1,1 @@
+Combination of hirarchical as well as multilevel inheritance .

@@ -1,0 +1,4 @@
+unlike languages like C++,
+ Java has no Destructor. Instead, 
+ Java has an efficient  garbage collector that
+ de-allocates memory automatically.

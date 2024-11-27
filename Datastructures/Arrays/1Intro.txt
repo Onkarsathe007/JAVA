@@ -1,0 +1,37 @@
+--------------------------------------------
+I . Defining an array :
+
+    type[] arrName = new type[Size];
+    type arrName[] = new type[Size];
+
+e.g : 
+
+    int[] marks = new int[20]
+
+II . Defining an array :
+
+    type[] arrName = {val1,val2,val3,val4};
+
+e.g : 
+
+    int[] marks = {1,2,3,4,5,6};
+
+---------------------------------------------
+| Array is 0th Based Indexing in JAVA.
+
+Storing elements in array :
+  
+   | I . By using indexing :
+       
+        arrName[0] = Value ;
+        arrName[1] = Value ;
+        arrName[2] = Value ;
+    
+        e.g :
+
+        marks[0] = 99;
+        marks[1] = 97;
+        marks[2] = 95;
+
+    
+

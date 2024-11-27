@@ -1,0 +1,27 @@
+Java classes does not support 'Multiple' inheritance ,
+It simply uses a concept of the 'Interfaces' for implementing the mulitple inheritace.
+
+E.g :
+
+
+class A {
+
+}
+class B {
+
+}
+// Error !
+class C extends A,C{
+
+}
+public class DashBoard {
+    public static void main(String[] args) {
+    
+    }    
+}
+
+O/P : DashBoard.java:9: error: '{' expected
+class C extends A,C{
+  
+
+*Note :  Java does not support multiple inheritance because if 'A' and 'B' method with same name 'method( ) ' and c tries to call it , then compiller will confuse to call which method and it will show error.
